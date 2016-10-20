@@ -3,7 +3,7 @@ var bio = {
   "role": "Web developer",
   "contacts": {
     "email": "rahuljoshi6070@gmail.com",
-    "mobile": "9769204585",
+    "mobile": "976920458",
     "location": "Mumbai",
     "github": "aaRJay607",
     "twitter": "@rahul",
