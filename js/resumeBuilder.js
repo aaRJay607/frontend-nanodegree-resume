@@ -65,7 +65,7 @@ var projects = {
     "title": "Making a porfolio site using HTML, CSS, Bootstrap",
     "dates": "September 2016 - October 2016",
     "description": "The design was done in HTML and CSS. A responsive website that displays images, descriptions and links to each of the portfolio projects completed throughout the course of the Front-End Web Developer Nanodegree.",
-    "images": ["images/portfolio1.jpg", "images/portfolio2.jpg"]
+    "images": ["images/portfolio1.JPG", "images/portfolio2.JPG"]
   }]
 };
 projects.display = function() {
